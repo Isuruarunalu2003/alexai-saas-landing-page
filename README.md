@@ -50,7 +50,7 @@ In this video tutorial, you'll learn how to build a beautiful, modern landing pa
 
 ```bash
 git clone https://github.com/Isuruarunalu2003/alexai-saas-landing-page.git
-cd ai-saas-landing-page
+cd alexai-saas-landing-page
 ```
 
 ### Installing Dependencies
